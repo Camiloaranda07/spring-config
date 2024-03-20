@@ -2,9 +2,9 @@ build:
   version: "v1.0"
 
 contact:
-  message: "Bank System prueba - Accounts API"
+  message: "Sistema Bancario - Accounts API / Entorno de produccion"
   details:
-    name: "Paul Atreiris - Product Owner"
+    name: "Paul Atreiris - Product Owner / Team Lead"
     email: "paulatreiris@hotmail.com"
   phone-numbers:
     - (57) 310-866-1675
