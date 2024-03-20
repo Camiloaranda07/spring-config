@@ -2,7 +2,7 @@ build:
   version: "v2.0"
 
 contact:
-  message: "Sistema Bancario prueba - Accounts API"
+  message: "Sistema Bancario prueba - Accounts API / Rabbitmq"
   details:
     name: "Maria Perez - QA Team Lead"
     email: "perez1232@hotmail.com"
