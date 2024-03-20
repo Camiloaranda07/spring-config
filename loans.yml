@@ -2,7 +2,7 @@ build:
   version: "v3.0"
 
 contact:
-  message: "Bank System - Accounts API"
+  message: "Bank System prueba - Accounts API"
   details:
     name: "Juan Camilo Aranda Martinez - Developer"
     email: "camiloaranda07@hotmail.com"
