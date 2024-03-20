@@ -2,10 +2,11 @@ build:
   version: "v2.0"
 
 contact:
-  message: "Sistema Bancario prueba - Accounts API / QA"
+  message: "Sistema Bancario prueba - Accounts API"
   details:
-    name: "Maria Perez - QA Lead"
-    email: "perez123@hotmail.com"
+    name: "Maria Perez - QA Team Lead"
+    email: "perez1232@hotmail.com"
   phone-numbers:
     - "(57) 310-866-1675"
+    - "(57) 315-123-1232"
 
