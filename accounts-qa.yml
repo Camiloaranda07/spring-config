@@ -2,7 +2,7 @@ build:
   version: "v2.0"
 
 contact:
-  message: "Bank System prueba - Accounts API"
+  message: "Sistema Bancario prueba - Accounts API / QA"
   details:
     name: "Maria Perez - QA Lead"
     email: "perez123@hotmail.com"
