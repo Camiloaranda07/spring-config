@@ -2,7 +2,7 @@ build:
   version: "v3.0"
 
 contact:
-  message: "Bank System - Cards API"
+  message: "Bank System - Cards API /// RabittMQ"
   details:
     name: "Juan Camilo Aranda Martinez - Developer"
     email: "camiloaranda07@hotmail.com"
