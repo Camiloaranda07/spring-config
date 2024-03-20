@@ -2,7 +2,7 @@ build:
   version: "v1.0"
 
 contact:
-  message: "Sistema Bancario - Accounts API / Entorno de produccion"
+  message: "Sistema Bancario - Accounts API / prueba produccion"
   details:
     name: "Paul Atreiris - Product Owner / Team Lead"
     email: "paulatreiris@hotmail.com"
